@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.header {
+  color: #64748b;
+}
+.header-container {
+  background-color: #cbd5e1;
+  text-align: center;
+  width: 100%;
+}
